@@ -49828,7 +49828,9 @@
 2a0a:1c0::,2a0a:1c7:ffff:ffff:ffff:ffff:ffff:ffff,FR
 2a0a:200::,2a0a:207:ffff:ffff:ffff:ffff:ffff:ffff,GB
 2a0a:240::,2a0a:247:ffff:ffff:ffff:ffff:ffff:ffff,LB
-2a0a:280::,2a0a:280:11ff:ffff:ffff:ffff:ffff:ffff,TR
+2a0a:280::,2a0a:280:fff:ffff:ffff:ffff:ffff:ffff,TR
+2a0a:280:1000::,2a0a:280:10ff:ffff:ffff:ffff:ffff:ffff,ID
+2a0a:280:1100::,2a0a:280:11ff:ffff:ffff:ffff:ffff:ffff,TR
 2a0a:280:1200::,2a0a:280:12ff:ffff:ffff:ffff:ffff:ffff,ID
 2a0a:280:1300::,2a0a:287:ffff:ffff:ffff:ffff:ffff:ffff,TR
 2a0a:2c0::,2a0a:2c7:ffff:ffff:ffff:ffff:ffff:ffff,UA
