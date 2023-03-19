@@ -6573,6 +6573,7 @@
 2001:df2:2280::,2001:df2:2280:ffff:ffff:ffff:ffff:ffff,IN
 2001:df2:22c0::,2001:df2:22c0:ffff:ffff:ffff:ffff:ffff,ID
 2001:df2:2300::,2001:df2:2300:ffff:ffff:ffff:ffff:ffff,ID
+2001:df2:2340::,2001:df2:2340:ffff:ffff:ffff:ffff:ffff,IN
 2001:df2:2380::,2001:df2:2380:ffff:ffff:ffff:ffff:ffff,ID
 2001:df2:2400::,2001:df2:2400:ffff:ffff:ffff:ffff:ffff,ID
 2001:df2:2480::,2001:df2:2480:ffff:ffff:ffff:ffff:ffff,ID
@@ -18259,7 +18260,7 @@
 2602:296::,2602:296:fff:ffff:ffff:ffff:ffff:ffff,CA
 2602:297::,2602:297:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:298::,2602:298:fff:ffff:ffff:ffff:ffff:ffff,US
-2602:299::,2602:299:ff:ffff:ffff:ffff:ffff:ffff,US
+2602:299::,2602:299:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:29a::,2602:29a:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:29b::,2602:29b:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:29c::,2602:29c:ff:ffff:ffff:ffff:ffff:ffff,US
